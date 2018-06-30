@@ -9,6 +9,7 @@
         <td align="center" width="33%">
             <h1><a href="https://softuni.bg/">SoftUni</a></h1>
             <h2>C#</h2>
+            <h2>Total grade: 5.28</h2>
         </td>
         <td align="center" width="33%"><img
                 src="https://avatars1.githubusercontent.com/u/29753011?s=400&u=3721726f4f51e1fcf23e7d0ae9f31eed8f5fc499&v=4&amp;s=200"
