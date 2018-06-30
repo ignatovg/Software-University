@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadFile", "ReadFile\ReadFile.csproj", "{926C6109-F302-4B21-9619-2E050BBC2FD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteToFile", "WriteToFile\WriteToFile.csproj", "{434849BC-BA45-4F20-BE95-D9BF1275E434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileAgain", "ReadFileAgain\ReadFileAgain.csproj", "{0C196A85-6527-44DD-99A3-CDBD211EE822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteToFileAgain", "WriteToFileAgain\WriteToFileAgain.csproj", "{7A62C456-A6B5-4605-AF13-7842FA26C065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingTextToFile", "WritingTextToFile\WritingTextToFile.csproj", "{E6C86023-4150-43E5-9969-6DB8346805CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyingFile", "CopyingFile\CopyingFile.csproj", "{639044F1-3107-4A65-8C85-8F9EC0090A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926C6109-F302-4B21-9619-2E050BBC2FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926C6109-F302-4B21-9619-2E050BBC2FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926C6109-F302-4B21-9619-2E050BBC2FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926C6109-F302-4B21-9619-2E050BBC2FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434849BC-BA45-4F20-BE95-D9BF1275E434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434849BC-BA45-4F20-BE95-D9BF1275E434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434849BC-BA45-4F20-BE95-D9BF1275E434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434849BC-BA45-4F20-BE95-D9BF1275E434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C196A85-6527-44DD-99A3-CDBD211EE822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C196A85-6527-44DD-99A3-CDBD211EE822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C196A85-6527-44DD-99A3-CDBD211EE822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C196A85-6527-44DD-99A3-CDBD211EE822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A62C456-A6B5-4605-AF13-7842FA26C065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A62C456-A6B5-4605-AF13-7842FA26C065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A62C456-A6B5-4605-AF13-7842FA26C065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A62C456-A6B5-4605-AF13-7842FA26C065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C86023-4150-43E5-9969-6DB8346805CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C86023-4150-43E5-9969-6DB8346805CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C86023-4150-43E5-9969-6DB8346805CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C86023-4150-43E5-9969-6DB8346805CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639044F1-3107-4A65-8C85-8F9EC0090A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639044F1-3107-4A65-8C85-8F9EC0090A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639044F1-3107-4A65-8C85-8F9EC0090A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639044F1-3107-4A65-8C85-8F9EC0090A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF9F20CE-2536-4560-AD58-9A031DDFCDFE}
+	EndGlobalSection
+EndGlobal
