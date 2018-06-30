@@ -26,11 +26,7 @@
     </tr>
     </tbody>
 </table>
-<!-- Head End -->
-<!-- JavaScript Fundamentals Start -->
 
-<!-- Practical Teamwork - ASP.NET Core MVC End -->
-<!-- Entity Framework Core - Databases Advanced - Start -->
 <hr/>
 
 </body>
