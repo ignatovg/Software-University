@@ -1,0 +1,13 @@
+Theta;Kitler;50
+Theta;Space Cow;45
+Theta;Huge Manatee;45
+Theta;Flying Shrimp;45
+Tau;Kitler;50
+Tau;Space Cow;45
+Tau;Huge Manatee;15
+Sigma;Kitler;50
+Sigma;Huge Manatee;45
+Sigma;Space Cow;15
+Omicron;Kitler;50
+Omicron;Huge Manatee;20
+Omicron;Space Cow;25

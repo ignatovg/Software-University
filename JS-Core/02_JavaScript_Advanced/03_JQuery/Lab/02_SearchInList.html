@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search in List</title>
+    <script src="jquery-3.3.1.js"></script>
+
+</head>
+<body>
+<ul id="towns">
+    <li>Sofia</li>
+    <li>Pleven</li>
+    <li>Varna</li>
+    <li>Plovdiv</li>
+</ul>
+<input type="text" id="searchText" />
+<button onclick="search()">Search</button>
+<div id="result"></div>
+<script>
+
+    function search() {
+        let patten = $('#searchText').val();
+        let searchedWords = $(`#towns li:contains(${patten})`);
+        searchedWords.css('font-weight','bold');
+        $(`#towns li:not(:contains(${patten}))`).css('font-weight','');
+        $('#result').text(`${searchedWords.length} matches found.`)
+    }
+
+    function searchLecturer() {
+      let pattern = $('#searchText').val();
+      let matched =  $(`ul#towns li:contains(${pattern})`);
+     matched.css('font-weight','bold');
+        $(`ul#towns li:not(:contains(${pattern}))`).css('font-weight','');
+     $('#result').text(`${matched.length} matches found.`);
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+Stone required: 17316
+Marble required: 1653
+Lapis Lazuli required: 344
+Gold required: 1
+Final pyramid height: 18

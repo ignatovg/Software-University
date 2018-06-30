@@ -1,0 +1,1 @@
+<message from="Alice" to="Bob">Message body</message>

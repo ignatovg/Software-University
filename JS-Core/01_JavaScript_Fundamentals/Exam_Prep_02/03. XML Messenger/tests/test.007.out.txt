@@ -1,0 +1,10 @@
+<article>
+  <div>From: <span class="sender">Pedro</span></div>
+  <div>To: <span class="recipient">Zaira</span></div>
+  <div>
+    <p>We have detected a distortion in the light patterns of Proxima Centauri.</p>
+    <p>It's likely this is a new rocky planet of approximately Earth-mass.</p>
+    <p>This is very exciting news!</p>
+    <p>Sincerely, Pedro Amado</p>
+  </div>
+</article>

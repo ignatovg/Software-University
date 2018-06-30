@@ -1,0 +1,1 @@
+<message to="Gammu" from="Primus" version="2.0">We come in piece</message>

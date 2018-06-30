@@ -1,0 +1,3 @@
+Sigma;Flying Shrimp;30
+Sigma;Space Cow;35
+Omega;Huge Manatee;13

@@ -1,0 +1,4 @@
+<message from="Pedro" to="Zaira" topic="Prxima Centauri discoveries">We have detected a distortion in the light patterns of Proxima Centauri.
+It's likely this is a new rocky planet of approximately Earth-mass.
+This is very exciting news!
+Sincerely, Pedro Amado</message>

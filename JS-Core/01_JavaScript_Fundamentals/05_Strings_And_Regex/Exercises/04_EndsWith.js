@@ -1,0 +1,1 @@
+(text,check) => text.endsWith(check);

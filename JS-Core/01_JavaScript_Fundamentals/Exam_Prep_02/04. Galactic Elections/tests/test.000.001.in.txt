@@ -1,0 +1,6 @@
+Theta;Flying Shrimp;10
+Sigma;Space Cow;200
+Sigma;Flying Shrimp;120
+Tau;Space Cow;15
+Sigma;Space Cow;60
+Tau;Flying Shrimp;150

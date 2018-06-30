@@ -1,0 +1,7 @@
+<article>
+  <div>From: <span class="sender">Primus</span></div>
+  <div>To: <span class="recipient">Gammu</span></div>
+  <div>
+    <p>We come in piece</p>
+  </div>
+</article>

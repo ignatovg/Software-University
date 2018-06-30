@@ -1,0 +1,7 @@
+<article>
+  <div>From: <span class="sender">Rachel Starr</span></div>
+  <div>To: <span class="recipient">You</span></div>
+  <div>
+    <p>I hope you like it</p>
+  </div>
+</article>

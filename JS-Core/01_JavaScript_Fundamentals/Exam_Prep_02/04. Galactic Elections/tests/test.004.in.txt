@@ -1,0 +1,12 @@
+Omicron;Octocat;45
+Omega;Huge Manatee;13
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5
+Delta;Space Cow;5

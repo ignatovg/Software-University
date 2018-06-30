@@ -1,0 +1,28 @@
+Theta;Octocat;10
+Theta;Space Cow;10
+Theta;Huge Manatee;10
+Theta;Flying Shrimp;10
+Theta;Octocat;1
+Tau;Octocat;30
+Tau;Space Cow;30
+Tau;Huge Manatee;30
+Tau;Flying Shrimp;30
+Tau;Space Cow;1
+Sigma;Octocat;10
+Sigma;Space Cow;10
+Sigma;Huge Manatee;10
+Sigma;Flying Shrimp;10
+Sigma;Huge Manatee;1
+Omicron;Octocat;10
+Omicron;Space Cow;10
+Omicron;Huge Manatee;11
+Omicron;Flying Shrimp;10
+Omicron;Flying Shrimp;1
+Omega;Huge Manatee;10
+Theta;Octocat;1
+Sigma;Huge Manatee;2
+Tau;Octocat;10
+Omega;Huge Manatee;10
+Omega;Huge Manatee;10
+Omega;Huge Manatee;10
+Omega;Octocat;10

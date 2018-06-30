@@ -1,0 +1,1 @@
+<message to="Alice" from="Charlie"><img src="fox.jpg"/></message><meta version="2"/>

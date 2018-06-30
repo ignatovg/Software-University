@@ -1,0 +1,3 @@
+Theta;Kim Jong Andromeda;10
+Tau;Kim Jong Andromeda;200
+Tau;Flying Shrimp;150

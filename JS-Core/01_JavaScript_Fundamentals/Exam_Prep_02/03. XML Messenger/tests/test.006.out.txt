@@ -1,0 +1,7 @@
+<article>
+  <div>From: <span class="sender">Grandma</span></div>
+  <div>To: <span class="recipient">Everyone</span></div>
+  <div>
+    <p>FWD: FWD: FWD: FWD: Forwards from grandma</p>
+  </div>
+</article>

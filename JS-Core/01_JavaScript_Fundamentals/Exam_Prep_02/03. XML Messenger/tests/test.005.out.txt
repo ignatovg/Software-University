@@ -1,0 +1,7 @@
+<article>
+  <div>From: <span class="sender">Alice</span></div>
+  <div>To: <span class="recipient">Bob</span></div>
+  <div>
+    <p>Message body</p>
+  </div>
+</article>

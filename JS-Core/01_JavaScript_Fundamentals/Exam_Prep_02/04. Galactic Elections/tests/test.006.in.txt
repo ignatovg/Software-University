@@ -1,0 +1,22 @@
+Theta;Kitler;10
+Theta;Space Cow;10
+Theta;Huge Manatee;10
+Theta;Flying Shrimp;10
+Theta;Kitler;1
+Tau;Kitler;10
+Tau;Space Cow;10
+Tau;Huge Manatee;10
+Tau;Flying Shrimp;10
+Tau;Space Cow;1
+Sigma;Kitler;10
+Sigma;Space Cow;10
+Sigma;Huge Manatee;10
+Sigma;Flying Shrimp;10
+Sigma;Huge Manatee;1
+Omicron;Kitler;10
+Omicron;Space Cow;10
+Omicron;Huge Manatee;10
+Omicron;Flying Shrimp;10
+Omicron;Flying Shrimp;1
+Theta;Kitler;1
+Sigma;Huge Manatee;2

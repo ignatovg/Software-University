@@ -1,0 +1,8 @@
+<article>
+  <div>From: <span class="sender">spooler</span></div>
+  <div>To: <span class="recipient">printer</span></div>
+  <div>
+    <p>We posses the knowledge of multi-line printing</p>
+    <p>There it is demonstrated</p>
+  </div>
+</article>

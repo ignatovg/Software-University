@@ -1,0 +1,7 @@
+Theta;Space Cow;10
+Tau;Space Cow;100
+Tau;Flying Shrimp;150
+Sigma;Space Cow;200
+Sigma;Flying Shrimp;75
+Omicron;Flying Shrimp;50
+Omicron;Octocat;75
