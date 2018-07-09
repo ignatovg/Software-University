@@ -38,6 +38,9 @@ let solve = () => {
     }
 return{Figure,Circle,Rectangle};
 };
+let Circle = solve().Circle;
+let Rectangle = solve().Rectangle;
+
 let circle = new Circle(5);
 console.log(circle.toString());
 
