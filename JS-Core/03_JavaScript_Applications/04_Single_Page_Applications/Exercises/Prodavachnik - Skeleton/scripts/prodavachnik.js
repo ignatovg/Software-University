@@ -1,4 +1,5 @@
 function startApp() {
+   localStorage.clear();
 
     $('header').find('a').show();
     const adsDiv = $('#ads');
@@ -199,7 +200,7 @@ function startApp() {
             let data = await requester.post('user', '_logout', {authtoken: localStorage.getItem('authtoken')});
             localStorage.clear();
             userLoggedOut();
-            showView('home')
+            showView('home');
             showInfo('Logged Out.')
         } catch (err) {
             handleError(err)
