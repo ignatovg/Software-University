@@ -1,0 +1,17 @@
+
+CREATE DATABASE Employees
+COLLATE Cyrillic_General_100_CI_AI
+
+USE Employees
+CREATE TABLE Employees(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR(50) NOT NULL,
+	LastName NVARCHAR(50) NOT NULL,
+	Salary DECIMAL(15,2) CHECK(Salary>0) NOT NULL,
+	Email VARCHAR(50) UNIQUE NOT NULL,
+	IsEmployed BIT DEFAULT 1,
+	HireDate DATE DEFAULT GETDATE()
+)
+
+USE Bank
+SELECT TOP(2) Id,FirstName,LastName FROM Clients

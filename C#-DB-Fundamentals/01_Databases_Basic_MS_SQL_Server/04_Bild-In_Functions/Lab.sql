@@ -1,0 +1,118 @@
+
+--STRING FUNCTIONS
+ SELECT 'GOSHGO' +' '+ 'IVANOV'
+
+ SELECT SUBSTRING('SOFTUNI',5,3)
+
+ SELECT REPLACE ('SOFTUNI','SOFT','HARD')
+
+ SELECT LTRIM('       SOFTUNI')
+
+ SELECT RTRIM('SOFTUNI           ')
+
+ SELECT LTRIM(RTRIM('   SOFTUNI   ')) 
+
+ SELECT LEN('SOFTUNI')
+
+ SELECT DATALENGTH('SOFTUNI')
+
+ SELECT N'»ван'
+
+ SELECT 'SOFTUNI', LEFT('SOFTUNI',4)
+
+ SELECT 'SOFTUNI', RIGHT('SOFTUNI',3)
+
+ SELECT LOWER('SOFUNI')
+ 
+ SELECT UPPER('softuni')
+
+ SELECT REVERSE('SoftUni')
+
+ SELECT REPLICATE('*',5)
+
+ SELECT CHARINDEX('Uni','SoftUni',1)
+
+ SELECT STUFF('SoftUni',1,0,'Test')
+
+ SELECT STUFF('SoftUni',1,4,'Test')
+
+ --EXERCISE 1
+ USE Demo
+ SELECT CustomerID,
+		FirstName,
+		LastName,
+	  CONCAT(LEFT(PaymentNumber,6), REPLICATE('*',10))  AS CCCNumber
+  FROM Customers
+
+ -- MATH FUNCTIONS
+
+ SELECT PI()
+
+ SELECT ABS(-3)
+
+ SELECT SQRT(16)
+
+ SELECT SQUARE(5)
+
+ SELECT POWER(5,2)
+
+ SELECT ROUND(15.556,2)
+
+ SELECT ROUND(15.556,-1)
+
+ SELECT FLOOR(155.556)
+
+ SELECT CEILING(155.556)
+
+ SELECT SIGN(4)
+ 
+ SELECT SIGN(-4)
+ 
+ SELECT RAND()
+
+ SELECT * FROM INFORMATION_SCHEMA.TABLES
+ --EXERCISE 2
+
+ SELECT *, SQRT(SQUARE(X1-X2)+SQUARE(Y1-Y2)) AS Length FROM LINES
+
+ --DATE FUNCTIONS
+ SELECT DATEPART(DAY, '12-11-2016')
+
+ --EXERCISE 
+ USE Orders
+
+ SELECT DATEPART(QUARTER,OrderDate) AS Quarter,
+		DATEPART(MONTH,OrderDate) AS Month,
+		DATEPART(YEAR,OrderDate) AS Year,
+		DATEPART(DAY,OrderDate) AS Day
+ FROM Orders
+
+ SELECT DATEDIFF(DAY, '12-11-2016','12-9-2016')
+
+ SELECT DATENAME(MONTH, '11-11-2016')
+
+ SELECT DATEADD(MONTH, 1, '11-12-2016')
+
+ SELECT FORMAT(DATEADD(MONTH, 1, '11-12-2016'),'dd-MMM-yyyy')
+
+ SELECT GETDATE()
+
+ --OTHER FUNCTIONS
+
+ USE Demo
+ SELECT * FROM Customers
+ ORDER BY CustomerID
+ OFFSET 10 ROWS
+ FETCH NEXT 5 ROWS ONLY
+
+ --WILDCARDS
+ SELECT * FROM Customers
+ WHERE FirstName LIKE 'S%'
+
+ -- %    -- any string, including zero-length
+-- _    -- any single character
+-- [Е]  -- any character within range
+-- [^Е] -- any character not in the range
+
+SELECT * FROM Customers
+WHERE FirstName LIKE '%VE!%' ESCAPE '!'
