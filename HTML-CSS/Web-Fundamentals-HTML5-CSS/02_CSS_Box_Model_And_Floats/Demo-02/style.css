@@ -1,0 +1,25 @@
+body{
+    padding: 4rem;
+}
+
+#container{
+    background: #CCD;
+    padding: 2rem;
+    position: relative;
+    height: 10rem;
+}
+
+#box{
+    background: #DDC;
+    position: absolute;
+    width: 5rem;
+    height: 5rem;
+    left: 0;
+    top: 0;
+}
+
+#inner-box{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
