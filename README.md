@@ -4,7 +4,7 @@
     <tbody>
     <tr>
         <td align="center" width="33%"><img style="text-align: ;"
-                                            src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png"
+                                            src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"
                                             alt=""/></td>
         <td align="center" width="33%">
             <h1><a href="https://softuni.bg/">SoftUni</a></h1>
