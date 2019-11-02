@@ -1,0 +1,25 @@
+What I got familiar through the courses with
+
+JS Fundamentals
+-Basic JavaScript programming
+-Working with loops, conditional constructions and functions
+-Working with variables, operators, expressions, arrays and matrices
+-Working with DOM
+-Working with strings and REGEXP
+-Works with JSON
+
+
+JS Advanced
+-DOM manipulations
+-JQUERY
+-Advanced Functions
+-Unit testing
+-Object composition, JS classes, Prototype chain
+
+
+JS Applications
+-Working with AJAX and jQuery AJAX
+-Working with REST API
+-Creating SPA applications
+-Working with templating and routing
+-Asynchronous programming
