@@ -1,0 +1,7 @@
+What I got familiar through the course with
+
+Databases Basics - MS SQL Server
+-Basic knowledge of databases
+-Table relations
+-Creating basic Back-End architectures
+-Transaction management and understanding of the ACID model

@@ -1,0 +1,26 @@
+What I got familiar through the courses with
+
+C# Advanced
+- Working with standart library on .NET Framework
+- Basic algorithmic thinking
+- Using the right data structures
+- Paying attention to the speed of the code
+- Look over border cases
+- String processing
+- Functional programming
+
+
+C# OOP Basics
+- Creation of classes and objects
+- Creating a hierarchy of classes
+- Understanding the OOP principles - abstraction, encapsulation, inheritance, polymorphism
+- Multiple inheritance
+- Exception handling.
+
+
+C# OOP Advanced
+- Understanding the object-oriented programming paradigm in the more advanced stage
+-Using events
+-Using Reflection API
+-Understanding and using Generic types
+-Unit testing
