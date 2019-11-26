@@ -2,6 +2,7 @@
 {
     public static void Main(string[] args)
     {
+        // https://github.com/ignatovg/Software-University/blob/master/Projects/Minedraft.docx
         IEnergyRepository energyRepository = new EnergyRepository();
 
         IHarvesterFactory harvesterFactory = new HarvesterFactory();
